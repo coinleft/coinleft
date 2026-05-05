@@ -9,7 +9,7 @@ I build web apps, explore AI, and love experimenting with generative models.
 
 ---
 
-## 🧩 Projects & Products
+## 🧩 Side Projects
 
 - [Clippipe](https://clippipe.com) – AI image tools and video downloader
 - [Wem.me](https://wem.me) – Short link generator & analytics
