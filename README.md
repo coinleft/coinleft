@@ -14,9 +14,7 @@ I build web apps, explore AI, and love experimenting with generative models.
 - [Clippipe](https://clippipe.com) – AI image tools and video downloader
 - [Wem.me](https://wem.me) – Short link generator & analytics
 
-## 🌐 Social & Domains
-
-- [Xiaohongshu](https://www.xiaohongshu.com/user/profile/61a5ef0a000000001000eb4d)
+## 🌐 Domains
 - [apm.cloud](https://apm.cloud) 
 - [npm.cloud](https://npm.cloud)
 
