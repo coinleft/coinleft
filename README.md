@@ -1,4 +1,4 @@
-# Hi, I'm Joe Zhang 👋
+## Hi, I'm Joe Zhang 👋
 
 💻 Fullstack Developer | 🤖 AI Enthusiast
 
@@ -9,7 +9,7 @@ I build web apps, explore AI, and love experimenting with generative models.
 
 ---
 
-## 🧩 Side Projects
+### 🧩 Side Projects
 
 - [Clippipe](https://clippipe.com) – AI image tools and video downloader
 - [Wem.me](https://wem.me) – Short link generator & analytics
