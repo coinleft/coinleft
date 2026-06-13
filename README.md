@@ -13,8 +13,3 @@ I build web apps, explore AI, and love experimenting with generative models.
 
 - [Clippipe](https://clippipe.com) – AI image tools and video downloader
 - [Wem.me](https://wem.me) – Short link generator & analytics
-
-## 🌐 Domains
-- [apm.cloud](https://apm.cloud) 
-- [npm.cloud](https://npm.cloud)
-
