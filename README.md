@@ -12,6 +12,6 @@ I build web apps, explore AI, and love experimenting with generative models.
 ### 🧩 Side Projects
 
 - [Clippipe](https://clippipe.com) – AI image tools and video downloader
-- [Wem.me](https://wem.me) – WhatsApp Short link generator & analytics
-- [ChatKeep AI](https://chromewebstore.google.com/detail/chatkeep-ai-save-search-o/hdeabchaghjpefccdkjedjfecdbbcmbj) – Save, Search & Organize AI Chats
+- [Wem.me](https://wem.me) – Short link generator & analytics
+- [ChatKeep](https://chromewebstore.google.com/detail/chatkeep-ai-save-search-o/hdeabchaghjpefccdkjedjfecdbbcmbj) – Save, Search & Organize AI Chats
 - [Wiresafe](https://wiresafe.xyz/) - For hobby testing
